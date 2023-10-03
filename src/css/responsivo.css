@@ -1,0 +1,14 @@
+@media (max-width: 896px){
+
+
+main .conteudo{
+    display: flex;
+    justify-content: center;
+}
+
+main. botao{
+    display: flex;
+    flex-direction: row;
+}
+
+}
